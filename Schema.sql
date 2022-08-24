@@ -1,5 +1,5 @@
-CREATE DATABASE `Test` character set utf8mb4 collate utf8mb4_bin;
-USE `Test`;
+CREATE DATABASE `test` character set utf8mb4 collate utf8mb4_bin;
+USE `test`;
 
 CREATE TABLE IF NOT EXISTS Posts(
 userId INT NOT NULL,
